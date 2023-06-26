@@ -23,7 +23,7 @@ struct ContentView: View {
             }
             .font(.title2)
             .buttonStyle(.borderedProminent)
-            .accentColor(.pink)
+            .accentColor(.blue)
         }
     }
 }
